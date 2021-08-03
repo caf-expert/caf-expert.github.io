@@ -1,4 +1,4 @@
-# Cloud Adoption Framework Hackathon Basic
+# Module 1: Cloud Adoption Framework Hackathon Basic
 
 This CAF Hackathon enables attendees to understand and get familiar on how the __Microsoft Cloud Adoption Framework for Azure (CAF)__ can be applied with their customers. This hackathon walks through the Define Strategy and Plan phases of the CAF to support attendees in leading a client engagement that is considering moving their digital assets to Azure.
 
@@ -12,18 +12,22 @@ By the end of the __CAF Hackathon__, attendees will have built a cloud adoption 
 
 ## Agenda
 
-### Day 1 (5h)
+### Pre-Learning
+
+[Online self paced learning](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+
+### Hackathon Day 1 (5h)
 
 - Introduction
 - Challenge 1 – 3
   Strategy, Govern, Plan
 
-### Day 2 (3h)
+### Hackathon Day 2 (3h)
 
 - Challenge Prepare presentation
 - Presentation
 
-## Details
+## Hackathon Details
 
 ### Challenge 1 - Strategy
 
