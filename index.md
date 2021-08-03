@@ -4,7 +4,9 @@ The Microsoft Cloud Adoption (CAF) Framework is an iterative approach to support
 
 Having CAF Experts in your organization enables you as a partner to become a trusted advisor for your customers on their journey to cloud. Continuously generate more business with your customers along the iterative journey of the digital transformation!
 
-![CAF Expert](/images/caf-expert.png)
+![CAF Expert](./images/caf-expert.png)
+
+> **_Further information please_** [download the PowerPoint](./sources/CAF%20Expert.pdf)
 
 ## The learning path
 
@@ -12,7 +14,7 @@ The learning path is based on three main modules with multiple add-on modules.
 
 - [Module 1: Cloud Adoption Framework - Basic](./caf-expert-basic.md)
 - [Module 2: Cloud Adoption Framework - Migration](./caf-expert-migrate.md)
-- [Cloud Adoption Framework - Advanced](./caf-expert-advanced.md)
+- [Moudle 3: Cloud Adoption Framework - Advanced](./caf-expert-advanced.md)
 
 __Additional Modules:__
 
@@ -51,7 +53,7 @@ By the end of the CAF Hackathon, attendees will have built a cloud adoption plan
 
 ### Pre-Learning Module 2
 
-[Online self paced learning](https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/)
+[Online self paced learning](https://docs.microsoft.com/learn/modules/app-and-infra-migration-and-modernization/)
 
 ### Hackathon Module 2
 
@@ -105,4 +107,4 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 - HOL
   individual deployment
 
-  [Learn more...](./caf-expert-advanced.md)
+[Learn more...](./caf-expert-advanced.md)
