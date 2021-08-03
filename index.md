@@ -10,7 +10,7 @@ Having CAF Experts in your organization enables you as a partner to become a tru
 
 The learning path is based on three main modules with multiple add-on modules.
 
-- Cloud Adoption Framework - Basic
+- [Cloud Adoption Framework - Basic](./caf-expert-basic.md)
 - Cloud Adoption Framework - Migration
 - Cloud Adoption Framework - Advanced
 
