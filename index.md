@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# Welcome to CAF Expert learning path
 
-You can use the [editor on GitHub](https://github.com/caf-expert/caf-expert.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The Microsoft Cloud Adoption (CAF) Framework is an iterative approach to support the digital transformation journey of an organization. It gives a collection of best practices, architectures and methodologies to ensure the integration of cloud into this journey .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Having CAF Experts in your organization enables you as a partner to become a trusted advisor for your customers on their journey to cloud. Continuously generate more business with your customers along the iterative journey of the digital transformation!
 
-### Markdown
+## The learning path
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The learning path is based on three main modules with multiple add-on modules.
 
-```markdown
-Syntax highlighted code block
+- Cloud Adoption Framework - Basic
+- Cloud Adoption Framework - Migration
+- Cloud Adoption Framework - Advanced
 
-# Header 1
-## Header 2
-### Header 3
+Additional Modules:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Cloud Adoption Framework - Basic
 
-**Bold** and _Italic_ and `Code` text
+This CAF Hackathon enables attendees to understand and get familiar on how the Microsoft Cloud Adoption Framework for Azure (CAF) can be applied with their customers. This hackathon walks through the Define Strategy and Plan phases of the CAF to support attendees in leading a client engagement that is considering moving their digital assets to Azure.
 
-[Link](url) and ![Image](src)
-```
+By the end of the CAF Hackathon, attendees will have built a cloud adoption plan that they can use to present to a customer’s C-Suite to justify adopting the cloud. The purpose of this exercise is to provide you with the tools and understanding that will complement the conversations attendees may be having with their customers.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Agenda
 
-### Jekyll Themes
+#### Day 1 (5h)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caf-expert/caf-expert.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Introduction
+- Challenge 1 – 3
+  Strategy, Govern, Plan
 
-### Support or Contact
+#### Day 2 (3h)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Challenge Prepare presentation
+- Presentation
+
+## Cloud Adoption Framework - Migration
+
+In this workshop, you will learn how to design a migration strategy for on-premises environments to Azure, including the migration of virtual and physical services as well as databases.
+
+At the end of this workshop, you will be better able to rationalize the migration of various workloads to Microsoft Azure as well as understanding how to determine the cost of hosting migrated workloads in Azure.
+
+### Agenda
+
+#### Day 1 (6h)
+
+- CAF Migrate
+  Methodology, Tools
+- Whiteboard Design Session
+
+#### Day 2 (6h)
+
+- HOL
+Discovery and Assessment
+- Migrate Application DatabaseMigrate Application
+
+## Cloud Adoption Framework - Advanced
+
+In this workshop, you will learn how to design an enterprise scale Landing Zone in Azure. You get familiar with the design principles and the critical design areas.
+
+At the end of this workshop, you will be able to leverage the existing enterprise scale architectures, able to build your own as well as understanding how to establish a policy driven governance. 
+
+### Agenda
+
+#### Day 1 (6h)
+
+- Enterprise Scale Intro
+  design principals
+  Critical design areas
+
+#### Day 2 (6h)
+
+- Enterprise Scale
+  first deployment
+- HOL
+  individual deployment
