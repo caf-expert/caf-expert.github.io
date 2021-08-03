@@ -36,6 +36,8 @@ By the end of the CAF Hackathon, attendees will have built a cloud adoption plan
 - Challenge Prepare presentation
 - Presentation
 
+[Learn more...](./caf-expert-basic.md)
+
 ## Cloud Adoption Framework - Migration
 
 In this workshop, you will learn how to design a migration strategy for on-premises environments to Azure, including the migration of virtual and physical services as well as databases.
