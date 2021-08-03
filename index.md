@@ -4,6 +4,8 @@ The Microsoft Cloud Adoption (CAF) Framework is an iterative approach to support
 
 Having CAF Experts in your organization enables you as a partner to become a trusted advisor for your customers on their journey to cloud. Continuously generate more business with your customers along the iterative journey of the digital transformation!
 
+![CAF Expert](/images/caf-expert.png)
+
 ## The learning path
 
 The learning path is based on three main modules with multiple add-on modules.
