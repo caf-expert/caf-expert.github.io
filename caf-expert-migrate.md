@@ -12,11 +12,12 @@ At the end of this workshop, you will be better able to rationalize the __migrat
 
 ## Agenda
 
-### Pre-Learning
-
-[Online self paced learning](https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/)
-
-- Applications and infrastructure migration and modernization
+> **_Pre-Learning:_**
+>
+> Applications and infrastructure migration and modernization
+>
+>[Online self paced learning](https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/)
+>
 
 ### Hackathon Day 1 (6h)
 

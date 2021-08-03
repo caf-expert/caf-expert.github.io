@@ -12,11 +12,11 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 
 ## Agenda
 
-### Pre-Learning
-
-[Part 1 - Online training Governance Methodology](https://docs.microsoft.com/learn/modules/build-cloud-governance-strategy-azure/)
-
-[Part 2 - Online training Enterprise Scale](https://docs.microsoft.com/learn/paths/enterprise-scale-architecture/)
+> **_Pre-Learning:_**
+> 
+> [Part 1 - Online training Governance Methodology](https://docs.microsoft.com/learn/modules/build-cloud-governance-strategy-azure/)
+> 
+> [Part 2 - Online training Enterprise Scale](https://docs.microsoft.com/learn/paths/enterprise-scale-architecture/)
 
 ### Hackathon Day 1 (6h)
 
