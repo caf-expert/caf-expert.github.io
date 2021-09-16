@@ -33,7 +33,7 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 
 ## Hackathon Details
 
-### Part 1 - Whiteboard Design Session (WDS)
+### Part 1 - Enterprise Scale Learning
 
 In the first day of this hackathon, we will learn everything regarding enterprise scale. What are the design principles, which critical design areas exist and what are the best practices to implement these design areas.
 
