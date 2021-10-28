@@ -23,6 +23,9 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 - Enterprise Scale Intro
   design principals
   Critical design areas
+- WAF Introduction and first steps
+  with the WAF Assessment
+
 
 ### Hackathon Day 2 (6h)
 
