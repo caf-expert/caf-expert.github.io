@@ -26,7 +26,6 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 - WAF Introduction and first steps
   with the WAF Assessment
 
-
 ### Hackathon Day 2 (6h)
 
 - Enterprise Scale
