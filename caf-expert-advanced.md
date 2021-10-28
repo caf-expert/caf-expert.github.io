@@ -17,6 +17,8 @@ At the end of this workshop, you will be able to leverage the existing enterpris
 > [Part 1 - Online training Governance Methodology](https://docs.microsoft.com/learn/modules/build-cloud-governance-strategy-azure/)
 > 
 > [Part 2 - Online training Enterprise Scale](https://docs.microsoft.com/learn/paths/enterprise-scale-architecture/)
+> 
+> [Part 3 - Introduction Well Architected Framework](https://docs.microsoft.com/learn/paths/azure-well-architected-framework/)
 
 ### Hackathon Day 1 (6h)
 
