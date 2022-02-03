@@ -2,7 +2,7 @@
 
 We have just release new dates for our CAF Expert Learning Path!
 
-
+Register to **each of them** to get the full learning path experience. 
 
 
 ![Dates 3rd round](/images/headerdates.png)
