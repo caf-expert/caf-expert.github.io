@@ -14,7 +14,7 @@ By the end of the __CAF Hackathon__, attendees will have built a cloud adoption 
 
 > **_Pre-Learning:_**
 > 
-> [Online self paced learning](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+> [Online self paced learning](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
 
 ### Hackathon Day 1 (5h)
 

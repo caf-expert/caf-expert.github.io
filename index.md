@@ -8,6 +8,12 @@ Having CAF Experts in your organization enables you as a partner to become a tru
 
 > **_Further information please_** [download the PowerPoint](./sources/CAF%20Expert.pdf)
 
+## CAF Introduction
+
+There are multiple sources to get a quick introduction into the Cloud Adoption Framework. There is a CAF learning path in the [Microsoft Docs](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/). This path is also the required pre-learning for the first module.
+
+In addition there is [on-demand self learning path in german](https://caf-expert.github.io/caf-intro/) with a lot of videos and links towards tools and other supporting material.
+
 ## The learning path
 
 The learning path is based on three main modules with multiple add-on modules.
